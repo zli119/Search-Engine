@@ -1,4 +1,4 @@
-# Full-Text-Matching-Service-For-Fun
+# Search Engine
 ## Description
 This is a web service for full text matching, implemented with inverted index.
 
